@@ -47,9 +47,9 @@ This project demonstrates how to fine-tune the [LLaMA 3 (3B) Instruct model](htt
 
 | Metric     | Score   |
 |------------|--------:|
-| Precision  | **0.7344** |
-| Recall     | **0.8025** |
-| F1 Score   | **0.7666** |
+| Precision  | **0.7345** |
+| Recall     | **0.8033** |
+| F1 Score   | **0.7670** |
 
 > **BERTScore** measures semantic similarity using contextual embeddings. F1 ≈ 0.77 demonstrates strong alignment between generated answers and expert medical reasoning steps.
 
