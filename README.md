@@ -36,8 +36,8 @@ This project demonstrates how to fine-tune the [LLaMA 3 (3B) Instruct model](htt
 
 | Metric               | Score  |
 |----------------------|--------|
-| Before Fine-Tuning   | 0.305  |
-| After Fine-Tuning    | 0.305  |
+| Before Fine-Tuning   | 0.3054  |
+| After Fine-Tuning    | 0.3055  |
 
 > Note: ROUGE-L remained stable due to early experimental training (60 steps).
 
