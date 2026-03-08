@@ -2,7 +2,7 @@
 
 This project demonstrates how to fine-tune the [LLaMA 3 (3B) Instruct model](https://huggingface.co/meta-llama/Meta-Llama-3-3B-Instruct) using a Chain-of-Thought dataset specific to medical reasoning, with **Unsloth**, **PEFT (QLoRA)**, and **Hugging Face** integration.
 
-> ⚠️ **Note:** This work is **inspired by and based on** the original implementation by [**Imran Mansha**](https://www.youtube.com/@imransdatalab). His excellent [YouTube tutorial](https://www.youtube.com/watch?v=ogoe71cpUe4) and code laid the foundation for this notebook. Full credit to him for the initial framework.
+
 
 
 
@@ -89,6 +89,7 @@ This repository and model are open for educational, research, and non-commercial
 ---
 
 ## 🙏 Acknowledgments
+>  This work is **inspired by and based on** the original implementation by [**Imran Mansha**](https://www.youtube.com/@imransdatalab). His excellent [YouTube tutorial](https://www.youtube.com/watch?v=ogoe71cpUe4) and code laid the foundation for this notebook. Full credit to him for the initial framework.
 
 Special thanks to **Imran Mansha** for the original codebase and tutorial.
 
