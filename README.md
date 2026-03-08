@@ -91,7 +91,5 @@ This repository and model are open for educational, research, and non-commercial
 ## 🙏 Acknowledgments
 >  This work is **inspired by and based on** the original implementation by [**Imran Mansha**](https://www.youtube.com/@imransdatalab). His excellent [YouTube tutorial](https://www.youtube.com/watch?v=ogoe71cpUe4) and code laid the foundation for this notebook. Full credit to him for the initial framework.
 
-Special thanks to **Imran Mansha** for the original codebase and tutorial.
-
 ---
 
