@@ -1,6 +1,6 @@
 # LLaMA 3 Fine-Tuning for Medical Chain-of-Thought Reasoning (Unsloth + Hugging Face)
 
-This project demonstrates how to fine-tune the [LLaMA 3 (3B) Instruct model](https://huggingface.co/meta-llama/Meta-Llama-3-3B-Instruct) using a Chain-of-Thought dataset specific to medical reasoning, with **Unsloth**, **PEFT (QLoRA)**, and **Hugging Face** integration.
+This project demonstrates how to fine-tune the [LLaMA 3 (3B) Instruct model](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) using a Chain-of-Thought dataset specific to medical reasoning, with **Unsloth**, **PEFT (QLoRA)**, and **Hugging Face** integration.
 
 
 
